@@ -43,7 +43,7 @@ This repository contains a comprehensive object detection pipeline built using P
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/object-detection.git
+git clone https://github.com/pratham-asthana/object-detection.git
 cd object-detection
 pip install -r requirements.txt
 ```
